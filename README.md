@@ -5,4 +5,4 @@ O primeiro a digitar será o Cliente, já que ele quem solicita a conexão com o
 <br>
 Só poderá mandar a mensagem um de cada vez.
 <br><br>
-<strong>Observação:</strong> o código foi feito no <strong>Sistema Operacional Windows</strong>. Para Linux, o código deverá passar por breves alterações para funcionar corretamente. 
+<strong>Observação:</strong> o código foi feito no <strong>Sistema Operacional Windows</strong>. Para Linux, o código deverá passar por breves alterações para funcionar corretamente, pois as bibliotecas são levemente diferentes. 
